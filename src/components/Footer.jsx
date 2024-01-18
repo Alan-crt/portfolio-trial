@@ -18,7 +18,7 @@ const Footer = () => {
               <i className="fa-brands fa-twitter"></i>
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/Alan-crt"
               aria-label="GitHub"
               target="_blank"
               rel="noopener noreferrer"
@@ -26,7 +26,7 @@ const Footer = () => {
               <i className="fa-brands fa-github"></i>
             </a>
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/lalan-agung/"
               aria-label="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
